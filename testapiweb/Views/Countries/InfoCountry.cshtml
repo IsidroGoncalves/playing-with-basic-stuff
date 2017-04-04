@@ -1,0 +1,34 @@
+﻿@model testapiweb.Models.country
+
+
+<h2>InfoCountry</h2>
+
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Capital</th>
+        <th>Code</th>
+        <th>Phone Prefix</th>
+        <th>Population</th>
+    </tr>
+    <tr>
+        <td>
+            @Html.DisplayFor(p => p.name)
+        </td>
+        <td>
+            @Html.DisplayFor(p => p.capital)
+        </td>
+        <td>
+            @Html.DisplayFor(p => p.code)
+        </td>
+        <td>
+            @Html.DisplayFor(p => p.phoneprefix)
+        </td>
+        <td>
+            @Html.DisplayFor(p => p.population)
+        </td>        
+    </tr>
+</table>
+
+

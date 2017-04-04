@@ -1,0 +1,9 @@
+﻿
+<h2>GetCountry</h2>
+@using (Html.BeginForm("Getinfo", "Countries"))
+{
+    <b>country name</b>
+    @Html.TextBox("countryname");
+    
+    <input type="submit" value="search" class="btn btn-default " />
+}
