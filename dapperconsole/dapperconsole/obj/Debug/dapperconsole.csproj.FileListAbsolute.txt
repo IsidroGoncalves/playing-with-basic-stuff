@@ -1,0 +1,8 @@
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\obj\Debug\dapperconsole.csprojResolveAssemblyReference.cache
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\bin\Debug\dapperconsole.exe.config
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\bin\Debug\dapperconsole.exe
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\bin\Debug\dapperconsole.pdb
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\bin\Debug\Dapper.dll
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\bin\Debug\Dapper.xml
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\obj\Debug\dapperconsole.exe
+c:\users\ig\documents\visual studio 2017\Projects\dapperconsole\dapperconsole\obj\Debug\dapperconsole.pdb
