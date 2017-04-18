@@ -1,0 +1,8 @@
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\bin\Debug\new-vs-testing-feature.exe.config
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\bin\Debug\new-vs-testing-feature.exe
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\bin\Debug\new-vs-testing-feature.pdb
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\obj\Debug\new-vs-testing-feature.csprojResolveAssemblyReference.cache
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\obj\Debug\new-vs-testing-feature.exe
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\obj\Debug\new-vs-testing-feature.pdb
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\bin\Debug\FizzBuzz.Library.dll
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\new-vs-testing-feature\bin\Debug\FizzBuzz.Library.pdb

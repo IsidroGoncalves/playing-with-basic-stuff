@@ -1,0 +1,12 @@
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.deps.json
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.dll
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.pdb
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.AssemblyInfo.cs
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.dll
+c:\users\ig\documents\visual studio 2017\Projects\new-vs-testing-feature\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.pdb
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.deps.json
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.dll
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.pdb
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.dll
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.pdb

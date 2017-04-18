@@ -1,0 +1,8 @@
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\bin\Debug\new-vs-testing-feature.exe.config
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\bin\Debug\new-vs-testing-feature.exe
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\bin\Debug\new-vs-testing-feature.pdb
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\bin\Debug\FizzBuzz.Library.dll
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\bin\Debug\FizzBuzz.Library.pdb
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\obj\Debug\vsunittestingbasics.csprojResolveAssemblyReference.cache
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\obj\Debug\new-vs-testing-feature.exe
+C:\Users\ig\Documents\Visual Studio 2017\Projects\vsunittesting\vsunittestingbasics\obj\Debug\new-vs-testing-feature.pdb
