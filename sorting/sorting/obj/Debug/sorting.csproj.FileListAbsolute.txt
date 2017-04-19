@@ -1,0 +1,5 @@
+c:\users\ig\documents\visual studio 2017\Projects\sorting\sorting\bin\Debug\sorting.exe.config
+c:\users\ig\documents\visual studio 2017\Projects\sorting\sorting\bin\Debug\sorting.exe
+c:\users\ig\documents\visual studio 2017\Projects\sorting\sorting\bin\Debug\sorting.pdb
+c:\users\ig\documents\visual studio 2017\Projects\sorting\sorting\obj\Debug\sorting.exe
+c:\users\ig\documents\visual studio 2017\Projects\sorting\sorting\obj\Debug\sorting.pdb
